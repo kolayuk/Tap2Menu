@@ -1,0 +1,39 @@
+/*
+========================================================================
+ Name        : Main.l16
+ Author      : Usanov-Kornilov Nikolay (aka Kolay)
+ Copyright   : 
+Contacts:
+	kolayuk@mail.ru
+	http://kolaysoft.ru
+
+(c) KolaySoft, 2011
+
+ Description : 
+========================================================================
+*/
+// localized strings for language: Russian (16)
+CHARACTER_SET UTF8
+
+#define STR_MainView_3 ""
+#define STR_MainView_4 "Tap2Menu"
+#define STR_MainView_1 "Меню"
+#define STR_MainView_2 "Свернуть"
+#define STR_MainView_16 "Размер"
+#define STR_MainView_17 ""
+#define STR_MainView_18 "Позиция У (ланшафт)"
+#define STR_MainView_6 "Исключения"
+#define STR_MainView_19 ""
+#define STR_MainView_7 ""
+#define STR_AboutHeader "Tap2Menu v.1.1 - О программе"
+#define STR_AboutText "Разработчик: Усанов-Корнилов Николай aka Kolay\nWeb: http://kolaysoft.ru/\nSupport: kolayuk@gmail.com\nTwitter: @kolayuk\n Иконка: daeva112"
+#define STR_MainView_25 "Изменить"
+#define STR_MainView_26 "О программе"
+#define STR_MainView_27 "Другие программы"
+#define STR_MainView_28 "Выход"
+#define STR_MainView_10 "Позиция Х (портрет)"
+#define STR_MainView_11 ""
+#define STR_MainView_12 "Позиция У (портрет)"
+#define STR_MainView_13 ""
+#define STR_MainView_14 "Позиция Х (ланшафт)"
+#define STR_MainView_15 ""
